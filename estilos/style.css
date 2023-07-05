@@ -26,7 +26,7 @@ section#login{
     top: 50%;
     left: 50%;
     background-color: white;
-    width: 250px;
+    width: 290px;
     height: 500px;
     border-radius: 20px;
     transform: translate(-50% ,-50%);
@@ -34,20 +34,26 @@ section#login{
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.267);
     transition: width .3s , heigth .3s ;
     transition-timing-function: ease;
+    padding-right: 23px;
+    
+    
+
 
 
 }
 section#login >div#imagem{
     display: block;
     background:url(../imagens/pexels-pixabay-267469.jpg) no-repeat #5f2c82;
-    height: 200px;
+    height: 128px;
+    width:300px ;
     background-size: cover;
     background-position:bottom;
-
+    
 }
 section#login>div#formulario{
 display: block;
 padding-left: -10px;
+
 
 }
 
