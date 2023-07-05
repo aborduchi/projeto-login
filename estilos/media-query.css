@@ -37,16 +37,20 @@ section#login{
     section#login >div#formulario {
         float:left;
         width: 50%;
+        
     }
 }
 div#formulario{
     text-align: center;
     margin-bottom: 10px;
+    font-weight: bold;
+    
 
 }
 div#formulario >p{
-    font-size: 1.5em;
+    font-size: 0.9em;
 }
 div#formualrio >h1{
-    font-size: 0.2em;
+    font-size:1em;
 }
+
