@@ -28,7 +28,7 @@ section#login >div#formulario{
 
 }
 
-@media screen and (min-width:992px) {
+@media screen and (min-width:1792px) {
     body{
       background-image: linear-gradient(to top,#49a09d,#5f2c82);
  }  
