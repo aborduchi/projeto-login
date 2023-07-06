@@ -18,9 +18,9 @@
     }
 }
 section#login >div#formulario{
-    
     width: 70%;
     margin: auto;
+
     
  
    
@@ -61,12 +61,12 @@ div#formulario{
 
 }
 div#formulario >p{
-    font-size: 1em;
-    margin: 20px 0px;
+    font-size: 0.9em;
+    margin: 5px 0px;
     
 }
 div#formualrio >h1{
-    font-size:1.2em;
+    font-size:0.2em;
    
 }
 

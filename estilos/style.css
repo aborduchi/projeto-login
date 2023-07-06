@@ -29,7 +29,7 @@ section#login{
     left: 50%;
     background-color: rgba(224, 119, 206, 0.521);
     width: 280px;
-    height: 374px;
+    height: 334px;
     border-radius: 20px;
     overflow: hidden;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.267);
@@ -64,8 +64,10 @@ section#login >div#imagem{
  
 }
 section#login>div#formulario{
-display:block ;
-
+display:inline ;
+font-weight: normal;
+padding: 0px;
+margin: 0px;
 
 
 }
